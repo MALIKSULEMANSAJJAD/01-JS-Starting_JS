@@ -1,4 +1,8 @@
-console.log("Hellol posse");
-console.log("aight, let's do dis shish");
-console.log("let's start");
-console.log("");
+const defaultConstant = 0;
+
+let currentResult = defaultConstant;
+
+currentResult = defaultConstant + 10;
+let calculationDescription = defaultConstant + ' currentResult + 10';
+
+outputResult(currentResult, calculationDescription);
