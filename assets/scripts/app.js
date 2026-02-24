@@ -1,6 +1,5 @@
 const defaultConstant = 0;
 let currentResult = defaultConstant;
-
 currentResult = defaultConstant + 10;
 let calculationDescription = defaultConstant + " currentResult +10";
 
