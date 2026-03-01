@@ -7,3 +7,4 @@ let calculationDescription = defaultConstant + " currentResult +10";
 
 outputResult(currentResult, calculationDescription);
 //aye yo, aye yo yo move
+// wha's
