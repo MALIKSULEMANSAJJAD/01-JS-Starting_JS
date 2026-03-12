@@ -6,4 +6,4 @@ currentResult = defaultConstant + 10;
 let calculationDescription = defaultConstant + " currentResult +10";
 
 outputResult(currentResult, calculationDescription);
-// mitsubishi pajero 1982
+// mitsubishi pajero 1988
