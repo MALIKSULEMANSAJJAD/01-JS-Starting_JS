@@ -6,4 +6,4 @@ currentResult = defaultConstant + 10;
 let calculationDescription = defaultConstant + " currentResult +10";
 
 outputResult(currentResult, calculationDescription);
-//login hi ni ho rha, hota hai to mood ni bnta, ab mids bhi aa gye
+//login hi ni ho rha, hota hai to mood ni bnta
