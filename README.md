@@ -1,2 +1,2 @@
-wassup wassup
+wassup
 how ya doin'
