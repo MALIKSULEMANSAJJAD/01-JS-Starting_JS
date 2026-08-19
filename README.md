@@ -1,2 +1,1 @@
-wassup
-cuh
+wassup cuh, how ya feelin'
