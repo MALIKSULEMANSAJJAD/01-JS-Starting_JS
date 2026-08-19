@@ -1,1 +1,1 @@
-wassup cuh,
+wassup
