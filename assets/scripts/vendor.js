@@ -11,4 +11,4 @@ function outputResult(result, text) {
   currentResultOutput.textContent = result;
   currentCalculationOutput.textContent = text;
 }
-// nigga
+// hiii, its me, the maiden-less guy...
