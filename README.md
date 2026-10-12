@@ -1,2 +1,2 @@
 wassup
-wassus niggaz
+wassus nigga
